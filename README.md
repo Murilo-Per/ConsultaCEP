@@ -1,7 +1,7 @@
 # Resumo
 Buscador de endereços por CEP ou Endereço(Logradouro,Localidade, UF).
 
-![ConsultaEnderecoAPP](img/appimg.png) 
+![ConsultaEnderecoAPP](src/img/appimg.png) 
 
 ## Conceitos utilizados
 * Arquitetura em Camadas (ou Layered Architecture)
