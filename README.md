@@ -9,10 +9,9 @@ Buscador de endereços por CEP ou Endereço(Logradouro,Localidade, UF).
 
 ## Requisitos
 * [**Firebird**](https://firebirdsql.org/en/firebird-5-0-0/) - 5.0.0 ou superior
-* [**ConsultaCEP**](https://github.com/Murilo-Per/ViaCEP-Component) - Componente utilizado para consultas na API ViaCEP
+* [**ViaCEP-Component**](https://github.com/Murilo-Per/ViaCEP-Component) - Componente utilizado para consultas na API ViaCEP
 
-* `[Opcional]` Para facilitar o gerenciamento de dependências, eu recomendo utilizar o Boss.
-   * [**Boss**](https://github.com/HashLoad/boss) - Gerenciador de dependências para Delphi
+* `[Opcional]`
    * [**DBeaver**](https://dbeaver.io/download/) - Ferramenta para interação com banco de dados;
 
 * Possuir as dlls **libeay32.dll** e **ssleay32.dll** na pasta do projeto junto ao executável.
