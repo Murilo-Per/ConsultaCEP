@@ -10,11 +10,10 @@ Buscador de endereços por CEP ou Endereço(Logradouro,Localidade, UF).
 ## Requisitos
 * [**Firebird**](https://firebirdsql.org/en/firebird-5-0-0/) - 5.0.0 ou superior
 * [**ViaCEP-Component**](https://github.com/Murilo-Per/ViaCEP-Component) - Componente utilizado para consultas na API ViaCEP
+* Possuir as dlls **libeay32.dll** e **ssleay32.dll** na pasta do projeto junto ao executável.
 
 * `[Opcional]`
    * [**DBeaver**](https://dbeaver.io/download/) - Ferramenta para interação com banco de dados;
-
-* Possuir as dlls **libeay32.dll** e **ssleay32.dll** na pasta do projeto junto ao executável.
 
 
 # Instalação do App
